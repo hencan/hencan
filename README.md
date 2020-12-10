@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi there, I´m Henrique 👋
 
+### Studying at Fadergs/RS-BR
+🇧🇷 Born in Vitoria/ES, Brazil
+🇧🇷 Born in Porto Alegre, Brazil
+
+### Find me elsewhere 🌎
+🚀 ([Site] (https://hencan.github.io/portfolio/))
+🐦 Twitter (in preparation)
+📸 Instagram (in preparation)
+💼 ([LinkedIn] (https://www.linkedin.com/in/hencan/))
 <!--
 **hencan/hencan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
