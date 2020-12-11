@@ -3,14 +3,18 @@
 ### I'm looking for work in development 🔭
 - Born in Vitoria/ES, Brazil
 - Living in Porto Alegre, Brazil
+- Alternate address: São Paulo, Brazil
 
 ### I’m currently learning 🌱
 - Computer engineering at Fadergs
-- PHP course at Udemy/Cod3r
+- At Udemy/Cod3r: Firebase, PHP, Java, Flutter, React Native, Android Studio and Magento
 
 ### I’m looking to collaborate on 👯
 - Open source projects
 - Projects in three.js
+
+### My portfolio
+:bowtie: [Click to access](https://hencan.github.io/portfolio/)
 
 ### How to reach me 📫
 - 🚀 [Site](https://hencan.github.io/portfolio/)
