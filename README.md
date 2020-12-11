@@ -14,7 +14,7 @@
 - Projects in three.js
 
 ### My portfolio
-:bowtie: [Click to access](https://hencan.github.io/portfolio/)
+:bowtie: [Link](https://hencan.github.io/portfolio/)
 
 ### How to reach me 📫
 - 🚀 [Site](https://hencan.github.io/portfolio/)
