@@ -1,8 +1,16 @@
 ## Hi there, I´m Henrique 👋
 
-### I’m looking for work 🔭
+### I'm looking for work in development 🔭
 - Born in Vitoria/ES, Brazil
 - Living in Porto Alegre, Brazil
+
+### I’m currently learning 🌱
+- Computer engineering at Fadergs
+- PHP course at Udemy/Cod3r
+
+### I’m looking to collaborate on 👯
+- Open source projects
+- Projects in three.js
 
 ### How to reach me 📫
 - 🚀 [Site](https://hencan.github.io/portfolio/)
