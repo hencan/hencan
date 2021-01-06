@@ -7,7 +7,7 @@
 
 ### I’m currently learning 🌱
 - Computer engineering at Fadergs
-- At Udemy: PHP, Java, Flutter, React Native, Firebase, Android Studio and Magento
+- PHP, Rails, Ruby, Java, Flutter, React Native, Firebase, Magento and Android Studio 
 
 ### I’m looking to collaborate on 👯
 - Open source projects
