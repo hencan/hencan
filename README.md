@@ -1,22 +1,22 @@
 ## Hi there, I´m Henrique 👋
 
-### I'm looking for work in development 🔭
+### I'm looking for work in development
 - Born in Vitoria/ES, Brazil
 - Living in Porto Alegre, Brazil
 - Alternate address: São Paulo, Brazil
 
-### I’m currently learning 🌱
+### I’m currently learning
 - Computer engineering at Fadergs
 - PHP, Rails, Ruby, Java, Flutter, React Native, Firebase, Magento and Android Studio 
 
-### I’m looking to collaborate on 👯
+### I’m looking to collaborate on
 - Open source projects
 - Projects in three.js
 
 ### My portfolio
 :bowtie: [Link](https://hencan.github.io/portfolio/)
 
-### How to reach me 📫
+### How to reach me
 - 🚀 [Site](https://hencan.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hencan/)
 - 📸 Instagram (in preparation)
