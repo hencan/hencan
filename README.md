@@ -5,17 +5,20 @@
 - Living in Porto Alegre, Brazil
 - Alternate address: São Paulo, Brazil
 
-### I’m currently learning
-- Computer engineering at Fadergs
-- PHP, Rails, Ruby, Java, Flutter, React Native, Firebase, Magento and Android Studio 
+
 
 ### I’m looking to collaborate on
 - Open source projects
 - Projects in three.js
 
+<!--
+### I’m currently learning
+- Computer engineering at Fadergs
+- PHP, Rails, Ruby, Java, Flutter, React Native, Firebase, Magento and Android Studio 
+
 ### My portfolio
 :bowtie: [Link](https://hencan.github.io/portfolio/)
-<!--
+
 ### How to reach me
 - 🚀 [Site](https://hencan.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hencan/)
